@@ -1,0 +1,1 @@
+Anotações referentes ao curso de generative AI ofertado pela Amazon AWS em conjunto com o DeepLearningAI, disponibilizado no Coursera. O curso focaliza a respeito dos modelos de linguagem, abordando os detalhes da arquitetura dos transformers, bem como etapas de treinamento e engenharia de prompt e fine-tuning.
